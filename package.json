@@ -1,0 +1,21 @@
+{
+  "name": "file-watcher",
+  "version": "1.0.0",
+  "description": "watches logs files",
+  "main": "index.js",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/wilitetechnologydevelopment/file-watcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wilitetechnologydevelopment/file-watcher#readme"
+}
